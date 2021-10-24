@@ -35,7 +35,7 @@ public class FXMLController implements Initializable {
     void makeNewList(ActionEvent event) {
         //When you click the New List button on the bottom panel:
             //Create a new entry in the array of toDoLists
-            //call focusOnList for that toDoList
+            //Create a new button in the left panel for that list
     }
 
     @FXML
